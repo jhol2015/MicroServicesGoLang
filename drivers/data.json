@@ -1,0 +1,19 @@
+{
+    "drivers": [
+        {
+            "uuid": "1",
+            "name": "Jhol",
+            "email": "galilleu2011@gmail.com"
+        },
+        {
+            "uuid": "2",
+            "name": "Anny",
+            "email": "Anny2013@gmail.com"
+        },
+        {
+            "uuid": "3",
+            "name": "Enzo",
+            "email": "Enzo2009@gmail.com"
+        }
+    ]
+}
